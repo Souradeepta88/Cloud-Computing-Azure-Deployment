@@ -29,3 +29,5 @@ Thumbs.db
 *.tar
 .env
 ci-kubeconfig
+ci-kubeconfig
+azure_terminal_history.txt
